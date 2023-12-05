@@ -1,0 +1,16 @@
+.custom-position {
+	background-color: #191919 !important;
+	position: sticky;
+	top: 0;
+	font-size: large;
+	z-index: 1;
+}
+
+div > * {
+	color: white !important;
+}
+
+a:hover{
+	text-decoration: underline;
+	text-decoration-color: white;
+}

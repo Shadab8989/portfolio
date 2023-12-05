@@ -1,5 +1,20 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+}
+
+body{
+  background-color: black;
+  color: #ffffff;
+}
+
+.anchor{
+  display:block;
+  height:55px;
+  visibility:hidden;
+}
+
+.App > section {
+  margin: 0 2rem;
 }
 
 .App-logo {
@@ -35,4 +50,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+* {
+  box-sizing: border-box;
 }
