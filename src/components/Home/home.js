@@ -11,7 +11,7 @@ const Home = () => {
 						turning ideas into interactive and visually appealing digital
 						experiences.
 						<a
-							href="https://drive.google.com/file/d/18X-p5SGeeXLrY0kIYExp8-FzrGKl2VJ_/view?usp=sharing"
+							href="https://drive.google.com/file/d/197f0xz2Wjc2CLnq7KrfIpdM7v-lpP4mu/view"
 							target="_blank"
 							rel="noopener noreferrer"
 						>
