@@ -16,7 +16,7 @@ const Home = () => {
 							rel="noopener noreferrer"
 						>
 							<button>
-								Resumed
+								Resume
 								<img
 									src={process.env.PUBLIC_URL + "/images/download-icon.png"}
 									alt="download"
